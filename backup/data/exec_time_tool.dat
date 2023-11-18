@@ -1,0 +1,4 @@
+fw_wan_1_pol_wan_0_lan_1_config_mixed  4.15
+fw_wan_1_pol_wan_1_lan_0_config_mixed  4.10
+nat_wan_1_pol_wan_0_lan_1_config_mixed  4.28
+nat_wan_1_pol_wan_1_lan_0_config_mixed  4.26

@@ -1,0 +1,5 @@
+#program hours
+"Firewall\n+\nPolicer\n(download)" 37 0 #2220
+"Firewall\n+\nPolicer\n(upload)" 0.7 
+"NAT\n+\nPolicer\n(download)" 2
+"NAT\n+\nPolicer\n(upload)" 0.4
